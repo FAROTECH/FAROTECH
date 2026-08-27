@@ -1,16 +1,47 @@
-## Hi there 👋
+# Fabrizio Rovelli
 
-<!--
-**FAROTECH/FAROTECH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`building software for things that fly.`
 
-Here are some ideas to get you started:
+```text
+$ whoami
+  software & systems engineer
+  embedded / flight software
+  C / C++ / Linux
+  space systems architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ work
+  Senior Embedded Software Engineer @ MetaSensing
+  building software for spaceborne SAR payloads
+
+$ current
+  independently building the open-source OrbitFabric ecosystem
+
+  ├── Core
+  ├── Studio
+  ├── Reference Mission
+  └── openOBSW integration
+
+$ orbitfabric --about
+  model-first spacecraft mission software contracts
+  describe · validate · explore · generate
+
+$ orbitfabric --links
+  Core              https://github.com/FAROTECH/orbitfabric
+  Studio            https://github.com/FAROTECH/orbitfabric-studio
+  Reference Mission https://github.com/FAROTECH/orbitfabric-reference-mission
+  openOBSW PoC      https://github.com/FAROTECH/OrbitFabric-OpenOBSW-PoC
+  Docs              https://farotech.github.io/orbitfabric/
+
+$ interests
+  spacecraft software
+  embedded systems
+  flight software architectures
+  model-driven systems
+  hardware / software boundaries
+  tools for understanding complex systems
+
+$ stack
+  C · C++ · Embedded Linux · RTOS · Space Systems
+
+$ _
+```
