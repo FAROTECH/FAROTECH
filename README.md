@@ -23,8 +23,8 @@ $ orbitfabric --about
 $ ls orbitfabric/
   <a href="https://github.com/FAROTECH/orbitfabric">core/</a>
   <a href="https://github.com/FAROTECH/orbitfabric-studio">studio/</a>
+  <a href="https://github.com/FAROTECH/orbitfabric-adapter-template">adapters</a>
   <a href="https://github.com/FAROTECH/orbitfabric-reference-mission">reference-mission/</a>
-  <a href="https://github.com/FAROTECH/OrbitFabric-OpenOBSW-PoC">openobsw-integration/</a>
 
 $ open docs
   <a href="https://farotech.github.io/orbitfabric/">farotech.github.io/orbitfabric</a>
